@@ -1,3 +1,4 @@
 This is a text doc
-Chase just added a line
+Chase just added (and Sean Changed) a line
 Chase add third line
+
